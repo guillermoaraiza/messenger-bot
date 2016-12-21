@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "cd032a1a2f5a80c6cb6cd755859cbdca",
+    "pageAccessToken": "EAAa89AUaFksBAPoOQj1iZCQW2V7AMlOHfR7Y11KA6bZBh4bfqtMVXczQhsFlXLhMLd4C60tjsZBDULRyhfY7JcdYkqoHL1VxJIThhXgieoETHFwZALiHj62dnDTHy7Lk6WLpG7YLXnu3UBEJwcthK6y4BhDysZA0Q8JdEw6eSTgZDZD",
+    "validationToken": "my_voice_is_my_password_verify_me_or_die",
+    "serverURL": "http://138.197.33.221/messengerbot/"
 }
